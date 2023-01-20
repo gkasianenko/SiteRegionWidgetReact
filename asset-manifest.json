@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.482e2671.css",
-    "main.js": "/static/js/main.ee64eff2.js",
-    "static/js/787.02df96bb.chunk.js": "/static/js/787.02df96bb.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/location-pin-black.svg": "/static/media/location-pin-black.e4affd8f48edfebc9b4df87cb3e68001.svg",
-    "static/media/location-pin.svg": "/static/media/location-pin.bf5c1520958c314d9ea8d5f6f467603f.svg",
-    "static/media/close-button.svg": "/static/media/close-button.d4898432778df35dc866f6576e05b5a7.svg",
-    "index.html": "/index.html",
-    "main.482e2671.css.map": "/static/css/main.482e2671.css.map",
-    "main.ee64eff2.js.map": "/static/js/main.ee64eff2.js.map",
-    "787.02df96bb.chunk.js.map": "/static/js/787.02df96bb.chunk.js.map"
+    "main.css": "/reactSiteRegionWidget/static/css/main.482e2671.css",
+    "main.js": "/reactSiteRegionWidget/static/js/main.35e90922.js",
+    "static/js/787.02df96bb.chunk.js": "/reactSiteRegionWidget/static/js/787.02df96bb.chunk.js",
+    "static/media/logo.svg": "/reactSiteRegionWidget/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/location-pin-black.svg": "/reactSiteRegionWidget/static/media/location-pin-black.e4affd8f48edfebc9b4df87cb3e68001.svg",
+    "static/media/location-pin.svg": "/reactSiteRegionWidget/static/media/location-pin.bf5c1520958c314d9ea8d5f6f467603f.svg",
+    "static/media/close-button.svg": "/reactSiteRegionWidget/static/media/close-button.d4898432778df35dc866f6576e05b5a7.svg",
+    "index.html": "/reactSiteRegionWidget/index.html",
+    "main.482e2671.css.map": "/reactSiteRegionWidget/static/css/main.482e2671.css.map",
+    "main.35e90922.js.map": "/reactSiteRegionWidget/static/js/main.35e90922.js.map",
+    "787.02df96bb.chunk.js.map": "/reactSiteRegionWidget/static/js/787.02df96bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.482e2671.css",
-    "static/js/main.ee64eff2.js"
+    "static/js/main.35e90922.js"
   ]
 }
